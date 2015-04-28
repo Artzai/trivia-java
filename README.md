@@ -1,1 +1,1 @@
-# trivia-java
+Usar el .sql en documentos
