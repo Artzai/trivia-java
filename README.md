@@ -9,4 +9,4 @@ Two player trivia game based on Trivial pursuit.
 
 Academic project developed for 1st year programming at IES Zubiri-Manteo, Donostia.
 
-Use .sql file inside documentos to create the basic MySQL schema needed to run the game.
+Use .sql file inside Documentos to create the basic MySQL schema needed to run the game.
